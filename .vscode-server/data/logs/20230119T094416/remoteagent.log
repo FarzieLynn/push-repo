@@ -1,0 +1,27 @@
+2023-01-19 09:44:16.337 [info] Extension host agent started.
+2023-01-19 09:44:16.536 [info] [127.0.0.1][f10090e9][ManagementConnection] New connection established.
+2023-01-19 09:44:16.949 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] New connection established.
+2023-01-19 09:44:16.991 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] <248> Launched Extension Host Process.
+2023-01-19 11:23:28.626 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-19 11:23:28.924 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-19 11:43:38.538 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-19 13:27:55.611 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-19 13:27:56.038 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-19 13:54:59.471 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-19 13:54:59.743 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-19 15:29:53.857 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-19 15:30:00.532 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-19 15:30:00.724 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-19 15:53:14.589 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-20 08:33:04.740 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-20 08:33:06.592 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-20 08:54:38.763 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-20 08:57:22.045 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-20 08:57:22.295 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-20 13:31:59.762 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-20 13:32:00.032 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-20 17:56:14.942 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-20 17:56:15.363 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-23 06:55:54.464 [info] [127.0.0.1][a94ec0d8][ExtensionHostConnection] The client has reconnected.
+2023-01-23 06:55:58.158 [info] [127.0.0.1][f10090e9][ManagementConnection] The client has reconnected.
+2023-01-23 06:56:01.647 [warning] No ptyHost heartbeat after 6 seconds

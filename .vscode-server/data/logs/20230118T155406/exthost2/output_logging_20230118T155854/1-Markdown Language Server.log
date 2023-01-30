@@ -1,0 +1,15 @@
+[Trace 23:59:00.981] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 23:59:00.984] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 23:59:00.987] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 23:59:00.994] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 23:59:01.019] DocumentSymbolProvider: provideDocumentSymbols — file:///home/farzie_lynn/FarziTest/README.md 1
+[Debug 23:59:01.020] LinkProvider: compute - file:///home/farzie_lynn/FarziTest/README.md
+[Debug 23:59:01.219] TableOfContentsProvider: create - file:///home/farzie_lynn/FarziTest/README.md
+[Debug 23:59:01.221] MdFoldingProvider: provideFoldingRanges — file:///home/farzie_lynn/FarziTest/README.md 1
+[Trace 00:00:31.723] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 00:03:08.008] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Debug 00:03:08.144] MdFoldingProvider: provideFoldingRanges — file:///home/farzie_lynn/FarziTest/README.md 1
+[Trace 00:03:09.595] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Trace 00:03:10.502] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md
+[Debug 00:03:10.626] MdFoldingProvider: provideFoldingRanges — file:///home/farzie_lynn/FarziTest/README.md 1
+[Trace 00:03:11.841] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/README.md

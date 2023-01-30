@@ -1,0 +1,11 @@
+[Trace 00:21:20.742] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:21:20.744] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:21:20.746] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:21:20.752] Server: connection.languages.diagnostics.on: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:21:20.816] DocumentSymbolProvider: provideDocumentSymbols — file:///home/farzie_lynn/FarziTest/FarziTest/README.md 1
+[Debug 00:21:20.817] LinkProvider: compute - file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Debug 00:21:21.007] TableOfContentsProvider: create - file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Debug 00:21:21.009] MdFoldingProvider: provideFoldingRanges — file:///home/farzie_lynn/FarziTest/FarziTest/README.md 1
+[Trace 00:32:23.517] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:32:29.094] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/farzie_lynn/FarziTest/FarziTest/README.md
+[Trace 00:32:33.513] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/farzie_lynn/FarziTest/FarziTest/README.md

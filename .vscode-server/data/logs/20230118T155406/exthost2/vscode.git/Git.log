@@ -1,0 +1,26 @@
+2023-01-18 15:58:54.986 [info] Log level: Info
+2023-01-18 15:58:54.986 [info] Validating found git in: "git"
+2023-01-18 15:58:54.986 [info] Using git "2.34.1" from "git"
+2023-01-18 15:58:54.986 [info] > git rev-parse --show-toplevel [108ms]
+2023-01-18 15:58:54.986 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:58:54.986 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-18 15:58:54.986 [info] > git rev-parse --git-dir --git-common-dir [88ms]
+2023-01-18 15:58:54.986 [info] Open repository: /home/farzie_lynn/FarziTest
+2023-01-18 15:58:54.988 [info] > git rev-parse --show-toplevel [24ms]
+2023-01-18 15:58:54.988 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:58:54.999 [info] > git config --get commit.template [22ms]
+2023-01-18 15:58:55.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-01-18 15:58:55.100 [info] > git status -z -uall [62ms]
+2023-01-18 15:58:55.101 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+2023-01-18 15:58:55.145 [info] > git rev-parse --show-toplevel [47ms]
+2023-01-18 15:58:55.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:58:55.150 [info] > git config --get commit.template [15ms]
+2023-01-18 15:58:55.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-01-18 15:58:55.181 [info] > git status -z -uall [9ms]
+2023-01-18 15:58:55.183 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-01-18 15:58:55.496 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-18 15:59:00.786 [info] > git show --textconv :README.md [28ms]
+2023-01-18 15:59:00.787 [info] > git ls-files --stage -- /home/farzie_lynn/FarziTest/README.md [21ms]
+2023-01-18 15:59:00.799 [info] > git cat-file -s 0c4414f76215f092f90b06ae0e3a35e009c28060 [3ms]
+2023-01-18 16:03:09.510 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-18 16:03:09.510 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,33 @@
+2023-01-18 15:54:10.932 [info] Log level: Info
+2023-01-18 15:54:10.932 [info] Validating found git in: "git"
+2023-01-18 15:54:10.932 [info] Using git "2.34.1" from "git"
+2023-01-18 15:54:10.933 [info] > git rev-parse --show-toplevel [107ms]
+2023-01-18 15:54:10.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:54:10.933 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-18 15:54:10.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:54:10.933 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-18 15:54:10.933 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:54:11.319 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-18 15:54:11.319 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-18 15:58:40.468 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-18 15:58:40.477 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-18 15:58:40.494 [info] Open repository: /home/farzie_lynn/FarziTest
+2023-01-18 15:58:40.508 [info] > git config --get commit.template [2ms]
+2023-01-18 15:58:40.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-01-18 15:58:40.544 [info] > git status -z -uall [12ms]
+2023-01-18 15:58:40.545 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-01-18 15:58:40.567 [info] > git config --get commit.template [9ms]
+2023-01-18 15:58:40.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-01-18 15:58:40.584 [info] > git status -z -uall [9ms]
+2023-01-18 15:58:40.584 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-18 15:58:40.980 [info] > git clone https://github.com/FarzieLynn/FarziTest.git /home/farzie_lynn/FarziTest --progress [1149ms]
+2023-01-18 15:58:40.980 [info] Cloning into '/home/farzie_lynn/FarziTest'...
+remote: Enumerating objects: 3, done.        
+remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), done.
+2023-01-18 15:58:41.007 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-18 15:58:47.363 [info] > git config --get commit.template [12ms]
+2023-01-18 15:58:47.378 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-01-18 15:58:47.396 [info] > git status -z -uall [10ms]
+2023-01-18 15:58:47.397 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
